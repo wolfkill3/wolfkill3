@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wolfkill3
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Python (Machine learning)
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me https://vk.com/melnikov_vadik
 
